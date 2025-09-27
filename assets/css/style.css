@@ -330,7 +330,7 @@ header .book a img {
 
 .hero-slide {
   padding-top: 130px;
-  background-image: linear-gradient(rgba(7, 7, 7, 0.6), rgba(44, 31, 59, 1)), url(../images/hero-bg.jpg);
+  background-image: linear-gradient(rgba(7, 7, 7, 0.6), rgba(28, 66, 58, .8)), url(../images/hero-bg.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -347,7 +347,7 @@ header .book a img {
 }
 
 .hero-two {
-  background-image: linear-gradient(rgba(7, 7, 7, 0.6), rgba(44, 31, 59, 1)), url(../images/post-2.jpg);
+  background-image: linear-gradient(rgba(7, 7, 7, 0.6), rgba(28, 66, 58, .8)), url(../images/post-2.jpg);
 }
 .rating-section-custom {
   /* Background already set with inline style */
